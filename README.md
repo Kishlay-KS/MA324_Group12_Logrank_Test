@@ -1,9 +1,9 @@
 We are creating this project in 3 stages:-
-  1) Simple Logrank test
+  1) Simple Logrank Test
   2) Weighted Logrank Test
   3) Applications of Logrank Test
 
-In the first stage, we have worked on the following implementations of the following:
+In the first stage, we have worked on the implementations of the following:
   1) Log-Rank Test from scratch for an example
   2) Log-Rank for various synthetic datasets (including Exponential, Lognormal, and Weibull)
   3) Power and Efficiency of the Log-Rank test for synthetic data generated
