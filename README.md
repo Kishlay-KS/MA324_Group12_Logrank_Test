@@ -15,6 +15,7 @@ We have worked on the following implementations of
   2) Weighted Log-Rank for various synthetic datasets (including Exponential, Lognormal, and Weibull)
   3) Power and Efficiency of the Weighted Log-Rank test for synthetic data generated
   4) Weighted Log-Rank and Power of the test for various Real World Datasets
+     
 **Disclaimer**
 
 The work is just for exploration purpose.  Any significant output can not be published or made commercialised without mentor's consent. You agree with the fact that it is fully mentor's discretion whether future extension of the work will bring you as a contributor.
